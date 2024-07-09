@@ -8,7 +8,7 @@ Theme for Bitwig inspired in LOGIC theme To be used with [Theme Editor by Berika
 ## Instructions
 - Backup your files and folders!!!
 - Install theme file using [Theme Editor](https://github.com/Berikai/bitwig-theme-editor)
-- Import the Color Palette 
+- Import the Color Palette (optional)
  
 ## Notes
 - Uuse it at your own risk.
