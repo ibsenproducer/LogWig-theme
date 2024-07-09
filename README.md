@@ -11,7 +11,6 @@ Theme for Bitwig inspired in LOGIC theme To be used with [Theme Editor by Berika
 - Import the Color Palette (optional)
  
 ## Notes
-- Uuse it at your own risk.
 
 ## Screenshots
 
