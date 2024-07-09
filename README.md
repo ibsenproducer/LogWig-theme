@@ -15,3 +15,5 @@ Theme for Bitwig inspired in LOGIC theme To be used with [Theme Editor by Berika
 ## Screenshots
 
 ![Screenshot](https://i.imgur.com/LOrFEVk.png)
+## Mid tone 30 / Black level 30
+![Screenshot](https://i.imgur.com/T1SSgc2.png)
